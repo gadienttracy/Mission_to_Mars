@@ -1,1 +1,2 @@
 # Mission_to_Mars
+The purpose of this challenge was to perform web scraping to gather information and images about Mars.  After scraping, the information was stored in Mongodb and presented via flask to my new webpage: Mission to Mars.  Bootstrap formatting touches were added by creating a fluid container for the Mars hemisphere images and titles.  Additionally rounded edges were added to the hemisphere images.
